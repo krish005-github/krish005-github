@@ -1,5 +1,5 @@
 - 👋 Hi, I’m krishnavamsi
-- 👀 I’m interested in ...
+- 👀 learning things and technology
 - 🌱 Embedded systems
 - 💞️ Any thing
 - 📫 mail me
